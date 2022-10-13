@@ -1,5 +1,5 @@
 # Pizza redirects
-Manage your Pizza Redirects as IaaS (Infrastructure as a Service) with this simple tool.
+Manage your Pizza Redirects as IaC (Infrastructure as Code) with this simple tool.
 
 ## Setup
 
