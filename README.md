@@ -3,7 +3,7 @@ Manage your Pizza Redirects as IaC (Infrastructure as Code) with this simple too
 
 ## Setup
 
-Create environment and install requirements
+Create environment and install requirements (python >= 3.10)
 
 ```bash
 python3 -m venv ./venv
